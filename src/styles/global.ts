@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     --button: #F8F8F8;
     --bottom: #F2F2F2;
     --text-dark: #70757a;
-    --text-middle-dark: #7B7B7B;
+    --text-middle-dark: #202124;
     --text-link: #1A0DBD;
   }
   * {
