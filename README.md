@@ -37,3 +37,21 @@ Para clonar e executar esta aplicação na sua máquina é necessário ter insta
 - [Git](https://git-scm.com/)
 - [Yarn](https://yarnpkg.com/)
 - [Node.js](https://nodejs.org/en/)
+
+```bash
+
+  # Clonar o repositório
+  $ git clone https://github.com/mateus2a/clone-google-homepage.git clone-google-homepage
+
+  # Entrar no diretório
+  $ cd clone-google-homepage
+
+  # Instalar as dependências
+  $ yarn install
+
+  # Iniciar o projeto
+  $ yarn start
+
+```
+
+<br />
