@@ -15,3 +15,7 @@
 ## 🔖 Sobre
 
 O **Google UI Clone** é uma aplicação web desenvolvida com o intuito de clonar a interface do Google.
+
+## 🎯 Próximos passos
+
+- Desenvilvimento de uma suíte de testes
