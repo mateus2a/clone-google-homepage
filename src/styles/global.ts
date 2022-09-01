@@ -10,6 +10,7 @@ export const GlobalStyle = createGlobalStyle`
     --text-dark: #70757a;
     --text-middle-dark: #202124;
     --text-link: #1A0DBD;
+    --text-message: #4d5156;
   }
   * {
     margin: 0;
