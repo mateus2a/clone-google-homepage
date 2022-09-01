@@ -19,3 +19,12 @@ O **Google UI Clone** é uma aplicação web desenvolvida com o intuito de clona
 ## 🎯 Próximos passos
 
 - Desenvilvimento de uma suíte de testes
+
+## 👩🏻‍💻 Tecnologias
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
+- [VS Code](https://code.visualstudio.com/) with [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
