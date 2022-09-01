@@ -11,3 +11,7 @@
 - [Como baixar e executar o projeto](#-como-baixar-e-executar-o-projeto)
 
 ---
+
+## 🔖 Sobre
+
+O **Google UI Clone** é uma aplicação web desenvolvida com o intuito de clonar a interface do Google.
