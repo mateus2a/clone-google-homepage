@@ -28,3 +28,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/)
 - [VS Code](https://code.visualstudio.com/) with [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
+
+---
+
+## 🗂 Como baixar e executar o projeto
+
+Para clonar e executar esta aplicação na sua máquina é necessário ter instalado:
+- [Git](https://git-scm.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Node.js](https://nodejs.org/en/)
