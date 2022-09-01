@@ -55,3 +55,5 @@ Para clonar e executar esta aplicação na sua máquina é necessário ter insta
 ```
 
 <br />
+
+Desenvolvido por [Mateus Alencar](https://github.com/mateus2a)
